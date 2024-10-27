@@ -12,7 +12,9 @@
 4. 중지 버튼을 누르기 전까지 계속됩니다.
 
 ## 실행 파일 다운로드
-repo 페이지의 우측, Releases에서 다운받을 수 있습니다.
+[Releases](https://github.com/enc2586/string-autocopy-win/releases)에서 다운받을 수 있습니다.
+
+`string-autocopy-win.exe`를 다운받으시면 됩니다.
 
 ## 빌드
 Releases의 실행파일을 신뢰하지 못하거나 직접 빌드하고 싶으신 경우, 아래 절차를 따르세요.
