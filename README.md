@@ -1,5 +1,6 @@
 # string-autocopy-win
 ![image](https://github.com/user-attachments/assets/c40302b6-1809-42c7-8c4c-854e4af17313)
+
 여러 줄의 문자열을 하나 하나 복사/붙여넣기하는 것을 돕는 프로그램입니다.
 
 문자열 여러 개를 따로, 지속적으로 붙여넣기해야할 때 유용합니다.
